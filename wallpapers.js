@@ -20,8 +20,8 @@ images = [
     "url": "https://i.ytimg.com/vi/FuJh1gDL76s/maxresdefault.jpg"
   },
   {
-    "title": "Leticia, police",
-    "url": "http://quemedices.diezminutos.es/var/qmd/storage/images/noticias_famosos/leticia_sabater_saca_nuevo_disco/sabater01/995400-1-esl-ES/sabater01_ampliacion.jpg"
+    "title": "Leticia, sexo",
+    "url": "https://cronicaglobal.elespanol.com/uploads/s1/58/20/11/7/leticia-sabater-18-centimetros-papi.png"
   },
   {
     "title": "Leticia, Marbella",
