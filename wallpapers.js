@@ -1,23 +1,23 @@
 images = [
   {
-    "title": "Nyan Cat",
-    "url": "https://media.giphy.com/media/l6fzXjHwAWXCM/giphy.gif"
+    "title": "Nicolas Cage",
+    "url": "https://wallpapercave.com/wp/wp3402645.jpg"
   },
   { 
-    "title": "Dear Carmen",
-    "url": "https://i.ytimg.com/vi/VW0k_NiEM6U/maxresdefault.jpg"
+    "title": "Two girls one cup",
+    "url": "https://i.imgur.com/thcaAJI.jpg"
   },
   {
-    "title": "El Fary",
-    "url": "http://photos1.blogger.com/blogger/2833/1237/1600/fary1.jpg"
+    "title": "Abascal",
+    "url": "https://arc-photo-larazon.s3.amazonaws.com/eu-central-1-prod/public/Q6WH6Y6ZCJCKXCO7KP572K3Q4I.jpg"
   },
   {
     "title": "David Hasselhof",
     "url": "http://static2.comicvine.com/uploads/screen_kubrick/0/40/749137-hoff.jpg"
   },
   {
-    "title": "Salchiiiipaaaaaapaaaa",
-    "url": "https://i.ytimg.com/vi/FuJh1gDL76s/maxresdefault.jpg"
+    "title": "Aznar",
+    "url": "http://img2.rtve.es/v/4944584?w=1600&preview=1547902537049.jpg"
   },
   {
     "title": "Leticia, sexo",
@@ -32,11 +32,11 @@ images = [
     "url": "https://i.ytimg.com/vi/7x-Y0yvRwpc/maxresdefault.jpg"
   },
   {
-    "title": "Banana (Fruity flash)",
-    "url": "http://www.cgsociety.org/cgsarchive/newgallerycrits/g06/29806/29806_1236311607_large.jpg"
+    "title": "Duquesa de Alba",
+    "url": "http://shiningstuff.com/wp-content/uploads/2014/12/Duquesa-De-Alba-HD-Wallpapers-5.jpg"
   },
   {
-    "title": "Eat shit",
-    "url": "https://img.buzzfeed.com/buzzfeed-static/static/enhanced/web05/2011/12/30/15/enhanced-buzz-wide-32333-1325276446-51.jpg"
+    "title": "Peter la anguila",
+    "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/04/19/15241545742016.jpg"
   }
 ];
